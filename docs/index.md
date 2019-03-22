@@ -5,9 +5,8 @@ This wiki is a work in progress and currently consists of 601 articles (most of 
 
 **Topics you may be interested in:**
 
-|                                                    |                                                     |  
 | :------------------------------------------------- | :-------------------------------------------------- |  
-| ## Basic MapTool Use                               | ## Macro Technical Reference                        |
+|** Basic MapTool Use**                              | ** Macro Technical Reference**                      |
 | - [MapTool FAQ](maptool_faq)                       | - Macro Reference                                   |
 | - [Introduction to Mapping]                        | - List of Functions                                 |
 | - [Introduction to Game Hosting]                   | - Branching and Looping Options                     |
