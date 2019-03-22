@@ -5,7 +5,7 @@ This wiki is a work in progress and currently consists of 601 articles (most of 
 
 **Topics you may be interested in:**
 
-|** Basic MapTool Use**                              | * Macro Technical Reference**                       |
+| Basic MapTool Use                                  | Macro Technical Reference                           |
 | :------------------------------------------------- | :-------------------------------------------------- |  
 | - [MapTool FAQ](maptool_faq)                       | - Macro Reference                                   |
 | - [Introduction to Mapping]                        | - List of Functions                                 |
@@ -19,19 +19,20 @@ This wiki is a work in progress and currently consists of 601 articles (most of 
 |   - Introduction to Macro Loops                    | - Macro Tips and Tricks                             |
 | - About Java Memory Settings                       | - Macro FAQ                                         |
 | - MapTool Glossary                                 |                                                     |
-| - Introduction to Vision Blocking                  | ## Tokens                                           |
+| - Introduction to Vision Blocking                  | **Tokens**                                          |
 | - Introduction to Lights and Sights                | - MapTool Tokens                                    |
 | - Introduction to Campaign Repositories            | - Token Types                                       |
 | - Network Connection Problems and Solutions        | - TokenTool QuickStart Guide                        |
 | - Feature List                                     |                                                     |
-| - Shortcut Keys                                    | ## Miscellaneous                                    |
+| - Shortcut Keys                                    | **Miscellaneous**                                   |
 |                                                    | - Supported CSS Styles                              |
-| ## Chat & Dice Rolling                             | - Sample Ruleset                                    |
+| **Chat & Dice Rolling**                            | - Sample Ruleset                                    |
 | - Chat Commands                                    | - Java 64 fails when using Launcher                 |
 | - Dice Expressions                                 | - Command Line Options                              |
 | - [ ] Roll formatting options                      | - MapTool ChangeLog (by build version)              |
 | - Roll visibility options                          |                                                     |
-| ## Resources for Users                             |                                                     |
+|                                                    |                                                     |
+| **Resources for Users**                            |                                                     |
 | - Dice Box                                         |                                                     |
 | - Frameworks                                       |                                                     |
  
