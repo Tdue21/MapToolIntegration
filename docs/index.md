@@ -9,13 +9,13 @@ This wiki is a work in progress and currently consists of 601 articles (most of 
 
 ## Basic MapTool Use                               
 - [MapTool FAQ](maptool_faq)                       
-- [Introduction to Mapping]                        
-- [Introduction to Game Hosting]                   
-- [Introduction to Tokens]                         
-- [Introduction to Properties]                     
-- [MapTool Preferences]                            
-- [Introduction to Macro Writing]                  
-  - [Introduction to Macro Branching]              
+- Introduction to Mapping                        
+- Introduction to Game Hosting                   
+- Introduction to Tokens                        
+- Introduction to Properties                     
+- MapTool Preferences                            
+- Introduction to Macro Writing                  
+  - Introduction to Macro Branching             
   - More Branching Options                         
   - Introduction to Macro Loops                    
 - About Java Memory Settings                       
@@ -29,7 +29,7 @@ This wiki is a work in progress and currently consists of 601 articles (most of 
 
 - Chat Commands                                    
 - Dice Expressions                                 
-- [[]] Roll formatting options                      
+- [[ ]] Roll formatting options                      
 - Roll visibility options                          
 ## Resources for Users                             
 - Dice Box                                         
