@@ -6,7 +6,7 @@ This wiki is a work in progress and currently consists of 601 articles (most of 
 **Topics you may be interested in:**
 
 ## Basic MapTool Use
-- [MapTool FAQ]
+- [MapTool FAQ](maptool_faq)
 - [Introduction to Mapping]
 - [Introduction to Game Hosting]
 - [Introduction to Tokens]
