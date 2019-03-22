@@ -29,7 +29,7 @@ This wiki is a work in progress and currently consists of 601 articles (most of 
 
 - Chat Commands                                    
 - Dice Expressions                                 
-- [ ] Roll formatting options                      
+- \[ \] Roll formatting options                      
 - Roll visibility options                          
 ## Resources for Users                             
 - Dice Box                                         
