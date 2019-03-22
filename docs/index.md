@@ -4,7 +4,9 @@ Welcome to the RPTools Documentation Wiki, currently we are heavily focused on d
 This wiki is a work in progress and currently consists of 601 articles (most of which are macro function articles), so finding exactly what you need may take a little effort at times. If you would like to help contribute to the maintenance of this wiki feel free to create an account and take a look at our editing guidelines. Unfortunately due to a large amount of spam from new user accounts you will need to send a PM to Craig on the RPTools forums ([https://forums.rptools.net](https://forums.rptools.net)) to create an account.
 
 **Topics you may be interested in:**
+
 <div class="begin-examples"></div>
+
 ## Basic MapTool Use                               
 - [MapTool FAQ](maptool_faq)                       
 - [Introduction to Mapping]                        
